@@ -23,3 +23,14 @@ pip install python-snap7
 https://blog.csdn.net/lcb411/article/details/101936678
 
 代码是19年初写过可用的。后面从维修转java了，代码没维护丢给其他有用的同事了。有机会我要个新版的过来完善一下。待尝试java版的连接程序
+
+5.如果读写错误，参考附件图片，配置允许远程连接
+
+
+
+
+
+
+（1）Snap7作为一个世界级的开源库，有自己的官网：http://snap7.sourceforge.net/
+
+（2）大家如果需要Snap7的源码，可以去这里下载：https://sourceforge.net/projects/snap7/files/1.4.2/snap7-full-1.4.2.7z/download
